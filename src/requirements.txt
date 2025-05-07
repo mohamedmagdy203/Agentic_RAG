@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+langchain-community
+tavily
+wikipedia
+PyPDF2
+chromadb
